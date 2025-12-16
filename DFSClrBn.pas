@@ -4,7 +4,7 @@
 { TdfsColorButton v2.62                                                        }
 {------------------------------------------------------------------------------}
 { A Windows 95 and NT 4 style color selection button.  It displays a palette   }
-{ of 20 color for fast selction and a button to bring up the color dialog.     }
+{ of 20 color for fast selection and a button to bring up the color dialog.    }
 {                                                                              }
 { Copyright 2000-2001, Brad Stowers.  All Rights Reserved.                     }
 { Remade by Valient Newman to comply with Delphi 2009 requirements             }
