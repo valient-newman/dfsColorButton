@@ -93,9 +93,9 @@ const
   ABOUT_TEXT = '%s'#13#13 +
      'Copyright 1999, Brad Stowers, All Rights Reserved.'#13 +
      'This component is distributed as freeware.'#13#13 +
+     'Corrections made by Valient Newman.'#13 +
      'The latest version of this component can be found on'#13 +
-     'my web site, Delphi Free Stuff, at:'#13 +
-     '  http://www.delphifreestuff.com/'#13;
+     'https://github.com/valient-newman'#13;
 begin
   MessageDlg(Format(ABOUT_TEXT, [GetStrValue]), mtInformation, [mbOK], 0);
 end;
