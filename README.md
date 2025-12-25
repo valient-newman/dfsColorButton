@@ -1,5 +1,5 @@
   Corrections brought in CBtnForm, ColorAEd, DFSClrBn by Valient Newman to make the component meet
-  the requirements of Delphi 2009 and higher, where WinTypes, WinProcs units are absent.
+  the requirements of Delphi 2, 2009 and higher, where WinTypes, WinProcs units are absent.
 
   Checked in Delphi 7 and Delphi 2007, 2009
   

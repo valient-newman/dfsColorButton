@@ -52,25 +52,25 @@
 {------------------------------------------------------------------------------}
 { Feel free to contact me if you have any questions, comments or suggestions   }
 { at bstowers@pobox.com.                                                       }
-{ The lateset version of my components are always available on the web at:     }
+{ The latest version of my components are always available on the web at:      }
 {   http://www.delphifreestuff.com/                                            }
 {------------------------------------------------------------------------------}
 { Date last modified:  June 27, 2001                                           }
 {------------------------------------------------------------------------------}
 { Date last modified by Newman:  December 15, 2025                             }
 { Github Repository <https://github.com/valient-newman>                        }
-{-----------------------------------------------------------------------------}
-{ TColorArrayEditor                                                           }
-{-----------------------------------------------------------------------------}
-{ Description:                                                                }
-{   This is a support unit for the TDFSColorButton component (DFSClrBn.PAS).  }
-{-----------------------------------------------------------------------------}
+{------------------------------------------------------------------------------}
+{ TColorArrayEditor                                                            }
+{------------------------------------------------------------------------------}
+{ Description:                                                                 }
+{   This is a support unit for the TDFSColorButton component (DFSClrBn.PAS).   }
+{------------------------------------------------------------------------------}
 unit ColorAEd;
 
 interface
 
 uses
-  {$IFDEF DFS_COMPILER_12_UP}
+  {$IFDEF DFS_DELPHI_2_UP}
   Windows,
   {$ELSE}
   WinTypes, WinProcs,
